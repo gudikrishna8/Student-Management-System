@@ -5,7 +5,7 @@ Student Management System
 A simple console-based Student Management System built using Python.
 This project allows users to add, view, search, update, and delete student records.
 It demonstrates the use of functions, lists, dictionaries, and conditional statements in Python.
-
+ 
 Features
 
 ➕ Add New Student Records
